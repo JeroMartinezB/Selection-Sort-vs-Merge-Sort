@@ -1,9 +1,3 @@
-// Jeronimo Martinez Barragan
-// CSC 310
-// 02/22/2025
-// Project 1
-
-
 import java.io.*;
 import java.util.*;
 public class SortingDriver{
